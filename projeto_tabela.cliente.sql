@@ -1,0 +1,1 @@
+SELECT * FROM loja2.clientes2;
